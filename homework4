@@ -1,0 +1,52 @@
+<html>
+<head>
+<u id="title">
+Resume
+</u>
+</head>
+
+<body>
+  <p id="name">
+  Mitchell Majhen
+  </p>
+  <p id="address">
+  1908 168st, V3Z 9X3, Surrey B.C. 
+  </p>
+  <p id="phone">
+  (778)-808-9848
+  </p>
+<u id="skills">
+Skills
+</u>
+<ul>
+<li id="determined">
+  Determined
+</li>
+<li id="Punctual">
+  Punctual
+</li>
+<li id="Enthusiastic">
+  Enthusiastic
+  </li>
+<li id="hard worker">
+Hard Worker
+</li>
+<li id="task orientated">
+Task Orientated
+</li>
+<li id="quick learner">
+Quick Learner
+</li>
+</ul>
+
+<u id="workhistory">
+  Work History
+</u>
+<p class="alignleft">
+2012-2015
+</p>
+<p class="alignright">
+Regional Manager
+</p>
+
+</html>

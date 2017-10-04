@@ -1,0 +1,34 @@
+#title {
+    font-size:35px;
+    display: flex; justify-content: center
+  }
+  
+  #name {
+    font-size:30px;
+    display: flex; justify-content: center
+  }
+  #address {
+    font-size:20px;
+     display: flex; justify-content: center;
+  }
+  #phone {
+    font-size:20px;
+    display: flex; justify-content: center;
+  }
+  #skills {
+    font-size:18px;
+  }
+  #workhistory {
+    font-size:18px;
+  }
+  #info {
+    font-size:14px;
+  }
+  #dundermiff {
+    display: flex; justify-content: flex-start;
+  }
+  #beet {
+    display: flex; justify-content: flex-start;
+  }
+  #info2 {
+    font-size:14px;

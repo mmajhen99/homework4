@@ -1,52 +1,66 @@
-<html>
 <head>
-<u id="title">
-Resume
-</u>
-</head>
 
-<body>
-  <p id="name">
-  Mitchell Majhen
-  </p>
-  <p id="address">
-  1908 168st, V3Z 9X3, Surrey B.C. 
-  </p>
-  <p id="phone">
-  (778)-808-9848
-  </p>
-<u id="skills">
-Skills
-</u>
-<ul>
-<li id="determined">
-  Determined
-</li>
-<li id="Punctual">
-  Punctual
-</li>
-<li id="Enthusiastic">
-  Enthusiastic
-  </li>
-<li id="hard worker">
-Hard Worker
-</li>
-<li id="task orientated">
-Task Orientated
-</li>
-<li id="quick learner">
-Quick Learner
-</li>
-</ul>
 
-<u id="workhistory">
-  Work History
-</u>
-<p class="alignleft">
-2012-2015
-</p>
-<p class="alignright">
-Regional Manager
-</p>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-</html>
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <u id="title">
+    Resume
+    </u>
+    </head>
+    
+    <body>
+      <p id="name">
+      Dwight Schrute
+      </p>
+      <p id="address">
+       1725 Slough Avenue, Scranton Pensilvania
+      </p>
+      <p id="phone">
+      (778)-858-9458
+      </p>
+    <u id="skills">
+    Skills
+    </u>
+    <ul>
+    <li id="determined">
+      Determined
+    </li>
+    <li id="Punctual">
+      Punctual
+    </li>
+    <li id="Enthusiastic">
+      Enthusiastic
+      </li>
+    <li id="hard worker">
+    Hard Worker
+    </li>
+    <li id="task orientated">
+    Task Orientated
+    </li>
+    <li id="quick learner">
+    Quick Learner
+    </li>
+    </ul>
+    
+    <u id="workhistory">
+      Work History
+    </u>
+    <p id="dundermiff">
+    2012-2015: Regional Manager- Dunder Mifflin Paper Inc.
+    </p>
+    <Li id="info">
+      Providing outstanding management for Dunder Mifflin Scranton Branch
+    </Li>
+    <p id="beet">
+    2015-2017: Owner- Schrute Beet Farms
+    </p>
+    <li id="info2">
+      Owner of Scranton Pensilvania's best beet farm
+    </li>
+    
